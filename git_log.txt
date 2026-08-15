@@ -1,3 +1,8 @@
+a5c19ec Updated Git history log
+eba36d9 Merge branch 'main' of https://github.com/malkramadn/City-Library-After-School-Program_by_30806020201621
+0e20d4b task1_sql_answers
+d2a7c2b Added Task 1 SQL answers
+9e3017f Added Git history log
 d9112bd Completed Task 3
 1b35e0e Added Task 2 report
 32ea772 Completed Task 2
